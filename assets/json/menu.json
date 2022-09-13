@@ -1,0 +1,170 @@
+[
+    {
+        "id": 1,
+        "name": "Warta",
+        "slug": "warta",
+        "url": "https://nu.or.id/warta",
+        "children": [
+            {
+                "id": 2,
+                "name": "Nasional",
+                "slug": "nasional",
+                "url": "https://nu.or.id/nasional"
+            },
+            {
+                "id": 3,
+                "name": "Daerah",
+                "slug": "daerah",
+                "url": "https://nu.or.id/daerah"
+            },
+            {
+                "id": 4,
+                "name": "Internasional",
+                "slug": "internasional",
+                "url": "https://nu.or.id/internasional"
+            },
+            {
+                "id": 5,
+                "name": "Risalah Redaksi",
+                "slug": "risalah-redaksi",
+                "url": "https://nu.or.id/risalah-redaksi"
+            },
+            {
+                "id": 7,
+                "name": "Obituari",
+                "slug": "obituari",
+                "url": "https://nu.or.id/obituari"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Fragmen",
+        "slug": "fragmen",
+        "url": "https://nu.or.id/fragmen"
+    },
+    {
+        "id": 59,
+        "name": "Quran",
+        "slug": "quran",
+        "url": "https://quran.nu.or.id"
+    },
+    {
+        "id": 9,
+        "name": "Keislaman",
+        "slug": "keislaman",
+        "url": "https://islam.nu.or.id",
+        "children": [
+            {
+                "id": 12,
+                "name": "Khutbah",
+                "slug": "khutbah",
+                "url": "https://islam.nu.or.id/khutbah"
+            },
+            {
+                "id": 46,
+                "name": "Ubudiyah",
+                "slug": "ubudiyah",
+                "url": "https://islam.nu.or.id/ubudiyah"
+            },
+            {
+                "id": 47,
+                "name": "Sirah Nabawiyah",
+                "slug": "sirah-nabawiyah",
+                "url": "https://islam.nu.or.id/sirah-nabawiyah"
+            },
+            {
+                "id": 48,
+                "name": "Tafsir",
+                "slug": "tafsir",
+                "url": "https://islam.nu.or.id/tafsir"
+            },
+            {
+                "id": 49,
+                "name": "Hikmah",
+                "slug": "hikmah",
+                "url": "https://islam.nu.or.id/hikmah"
+            },
+            {
+                "id": 50,
+                "name": "Nikah/Keluarga",
+                "slug": "nikahkeluarga",
+                "url": "https://islam.nu.or.id/nikah-keluarga"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "English",
+        "slug": "english",
+        "url": "https://nu.or.id/english"
+    },
+    {
+        "id": 11,
+        "name": "Opini",
+        "slug": "opini",
+        "url": "https://nu.or.id/opini"
+    },
+    {
+        "id": 13,
+        "name": "Video",
+        "slug": "video",
+        "url": "https://nu.or.id/video"
+    },
+    {
+        "id": 14,
+        "name": "Tokoh",
+        "slug": "tokoh",
+        "url": "https://nu.or.id/tokoh"
+    },
+    {
+        "id": 15,
+        "name": "Hikmah",
+        "slug": "hikmah",
+        "url": "https://nu.or.id/hikmah"
+    },
+    {
+        "id": 16,
+        "name": "Arsip",
+        "slug": "arsip",
+        "url": "https://nu.or.id/arsip"
+    },
+    {
+        "id": 52,
+        "name": "Kesehatan",
+        "slug": "kesehatan",
+        "url": "https://nu.or.id/kesehatan"
+    },
+    {
+        "id": 55,
+        "name": "Lainnya",
+        "slug": "lainnya",
+        "url": "lainnya",
+        "children": [
+            {
+                "id": 56,
+                "name": "Esai",
+                "slug": "esai",
+                "url": "https://nu.or.id/esai"
+            },
+            {
+                "id": 57,
+                "name": "Cerpen",
+                "slug": "cerpen",
+                "url": "https://nu.or.id/cerpen"
+            },
+            {
+                "id": 58,
+                "name": "Seni Budaya",
+                "slug": "seni-budaya",
+                "url": "https://nu.or.id/seni-budaya"
+            },
+            {
+                "id": 53,
+                "name": "Ramadhan",
+                "slug": "ramadhan",
+                "url": "https://islam.nu.or.id/ramadhan"
+            }
+        ]
+    }
+]
